@@ -1,7 +1,7 @@
 # Computer Vision for Sports
 
 ## Golf Swing
-RT-DETR finds the golfer and ViTPose estimates the body joints. The right wrist's position and speed (normalized by torso length), are plotted in sync with the video.
+RT-DETR finds the golfer and ViTPose estimates the body joints. The right wrist's position and speed (normalized by torso length) are plotted.
 
 <p align="center">
   <img src="Tasks/golf_swing/pose_and_speed.gif" width="400"/>
